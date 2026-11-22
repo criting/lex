@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#E4E0D8"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4D5C" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8B7355" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <text x="72" y="320" font-family="Georgia, serif" font-size="180" fill="#0E1419">LEX</text>
+  <text x="80" y="390" font-family="ui-monospace, monospace" font-size="28" letter-spacing="4" fill="#8B7355">BOUTIQUE COUNSEL</text>
+</svg>
